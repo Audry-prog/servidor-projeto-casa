@@ -7,7 +7,7 @@
     "autor": "Gardner Fox",
     "desenhista": "Harry Lampert",
     "editora": "DC Comics", 
-    "ano": "1940"
+    "ano": 1940
   },
   
   {
@@ -18,7 +18,7 @@
     "autor": "William Moulton Marston",
     "desenhista": "",
     "editora": "DC Comics",
-    "ano": "1941"
+    "ano": 1941
   },
 
   {
@@ -29,7 +29,7 @@
     "autor": "Stan Lee",
     "desenhista": "Steve Ditko",
     "editora": "Marvel Comics",
-    "ano": "1963"
+    "ano": 1963
   },
 
   {
@@ -40,7 +40,7 @@
     "autor": "Chris Claremont",
     "desenhista": "David Cockrum",
     "editora": "Marvel Comics",
-    "ano": "1978"
+    "ano": 1978
   }, 
 
   {
@@ -51,7 +51,7 @@
     "autor": ["Roy Thomas", "Len Wein"],
     "desenhista": "John V. Romita Senior",
     "editora": "Marvel Comics",
-    "ano": "1974"
+    "ano": 1974
   },
 
   { 
@@ -62,7 +62,7 @@
     "autor": "Mort Weisinger",
     "desenhista": "Paul Norris",
     "editora": "Marvel Comics",
-    "ano": "1941"
+    "ano": 1941
   },
 
   {
@@ -73,7 +73,7 @@
     "autor": "Stan Lee",
     "desenhista": "Jack Kirby",
     "editora": "Marvel Comics",
-    "ano": "1963"
+    "ano": 1963
   },
 
   {
@@ -84,7 +84,7 @@
     "autor": "Len Wein",
     "desenhista": "Dave Cockrum",
     "editora": "Marvel Comics",
-    "ano": "1975"
+    "ano": 1975
   },
 
   {
@@ -95,7 +95,7 @@
     "autor": "Stan Lee",
     "desenhista": "Jack Kirby",
     "editora": "Marvel Comics",
-    "ano": "1963"
+    "ano": 1963
   },
 
   {
@@ -106,6 +106,6 @@
     "autor": "Chris Claremont",
     "desenhista": "Michael Golden",
     "editora": "Marvel Comics",
-    "ano": "1981"
+    "ano": 1981
   }
 ]
